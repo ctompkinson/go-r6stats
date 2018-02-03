@@ -12,4 +12,4 @@ player := r6.GetPlayer("Cheggers-Ti, "uplay")
 
 ## Contributing
 
-I accept patches via pull request or you submit them directly to me via email at ctompkinson@gmail.com
+I accept patches via pull request or you can submit them directly to me via email at ctompkinson@gmail.com
