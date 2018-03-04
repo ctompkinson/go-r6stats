@@ -32,7 +32,7 @@ type GameTypeStats struct {
 	HasPlayed bool `json:"has_played"`
 	Wins int `json:"wins"`
 	Losses int `json:"losses"`
-	WinLossRatio float32 `json:"wlr"`
+	WinLossRatio float64 `json:"wlr"`
 	Kills int `json:"kills"`
 	Deaths int `json:"deaths"`
 	KillDeathRatio float64 `json:"kd"`
