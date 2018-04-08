@@ -74,7 +74,7 @@ type OperatorRecordStats struct {
 	Kills    int               `json:"kills"`
 	Deaths   int               `json:"deaths"`
 	Playtime int               `json:"playtime"`
-	Specials map[string]string `json"specials"`
+	Specials map[string]string `json:"specials"`
 }
 
 type OperatorRecordInfo struct {
